@@ -1,0 +1,5 @@
+---
+# tasks file for DarkStar1973.dummy
+- name: This a test
+  debug:
+    msg: "Hello"            
